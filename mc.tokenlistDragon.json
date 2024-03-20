@@ -10,7 +10,25 @@
   "tokens": [
     {
       "chainId": 43113,
+      "address": "0x0b9d5D9136855f6FEc3c0993feE6E9CE8a297846",
+      "decimals": 18,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "tags": ["DeFi", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf97f4df75117a78c1A5a0DBb814Af92458539FB4/logo.png"
+    },
+    {
+      "chainId": 43113,
       "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+      "decimals": 18,
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "tags": ["Top"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "decimals": 18,
       "name": "Wrapped AVAX",
       "symbol": "WAVAX",
