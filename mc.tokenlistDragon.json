@@ -26,24 +26,6 @@
       "tags": ["Top"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png"
     },
-      {
-      "chainId": 43113,
-      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "decimals": 18,
-      "name": "AVAX",
-      "symbol": "AVAX",
-      "tags": ["Top"],
-      "logoURI": "https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png?160402181"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "decimals": 18,
-      "name": "AVAX",
-      "symbol": "AVAX",
-      "tags": ["Top"],
-      "logoURI": "https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png?160402181"
-    },
     {
       "chainId": 43114,
       "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
